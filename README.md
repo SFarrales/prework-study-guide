@@ -1,4 +1,4 @@
-# Study Guide for Coding Boot Camp! 
+# Study Guide for Coding Boot Camp
 
 ## Description
 
